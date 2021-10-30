@@ -1,10 +1,8 @@
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:spring_drive/services/firebase_services.dart';
 import 'package:spring_drive/widgets/custom_input.dart';
 import 'package:spring_drive/widgets/product_card.dart';
-
 import '../constants.dart';
 
 class SearchTab extends StatefulWidget {

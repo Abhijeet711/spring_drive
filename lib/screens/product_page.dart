@@ -1,9 +1,7 @@
-
 import 'package:flutter/material.dart';
 import 'package:spring_drive/services/firebase_services.dart';
 import 'package:spring_drive/widgets/custom_action_bar.dart';
 import 'package:spring_drive/widgets/image_swipe.dart';
-import 'package:spring_drive/widgets/product_size.dart';
 
 import '../constants.dart';
 

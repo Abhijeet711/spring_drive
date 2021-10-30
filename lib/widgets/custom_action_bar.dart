@@ -1,6 +1,4 @@
-
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:spring_drive/screens/cart_page.dart';
 import 'package:spring_drive/services/firebase_services.dart';
